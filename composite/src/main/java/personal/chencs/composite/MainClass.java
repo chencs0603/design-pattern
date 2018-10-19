@@ -9,10 +9,10 @@ public class MainClass {
     public static void main(String[] args) {
         System.out.println("Create Root Directory......");
 
-        Directory root = new Directory("root");
-        Directory bin = new Directory("bin");
-        Directory tmp = new Directory("tmp");
-        Directory usr = new Directory("usr");
+        Entry root = new Directory("root");
+        Entry bin = new Directory("bin");
+        Entry tmp = new Directory("tmp");
+        Entry usr = new Directory("usr");
 
         root.add(bin);
         root.add(tmp);

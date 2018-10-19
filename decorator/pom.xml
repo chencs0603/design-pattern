@@ -2,17 +2,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>design-pattern</artifactId>
+        <groupId>personal.chencs</groupId>
+        <version>1.0.0</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>personal.chencs</groupId>
-    <artifactId>design-pattern</artifactId>
+    <artifactId>decorator</artifactId>
     <version>1.0.0</version>
-    <modules>
-        <module>composite</module>
-        <module>decorator</module>
-    </modules>
-    <packaging>pom</packaging>
-    <description>图解设计模式：示例代码</description>
-
+    <packaging>jar</packaging>
+    <description>装饰类与被装饰类的一致性</description>
 
 </project>

@@ -11,6 +11,7 @@
         <module>composite</module>
         <module>decorator</module>
         <module>iterator</module>
+        <module>adapter</module>
     </modules>
     <packaging>pom</packaging>
     <description>图解设计模式：示例代码</description>

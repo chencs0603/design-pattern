@@ -17,6 +17,7 @@
         <module>adapter</module>
         <module>template</module>
         <module>factory</module>
+        <module>singleton</module>
     </modules>
 
 </project>

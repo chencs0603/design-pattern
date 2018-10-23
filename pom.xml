@@ -16,6 +16,7 @@
         <module>iterator</module>
         <module>adapter</module>
         <module>template</module>
+        <module>factory</module>
     </modules>
 
 </project>

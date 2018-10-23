@@ -7,6 +7,9 @@
     <groupId>personal.chencs</groupId>
     <artifactId>design-pattern</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <description>图解设计模式：示例代码</description>
+
     <modules>
         <module>composite</module>
         <module>decorator</module>
@@ -14,8 +17,5 @@
         <module>adapter</module>
         <module>template</module>
     </modules>
-    <packaging>pom</packaging>
-    <description>图解设计模式：示例代码</description>
-
 
 </project>

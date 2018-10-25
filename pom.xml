@@ -16,9 +16,10 @@
         <module>iterator</module>
         <module>adapter</module>
         <module>template</module>
-        <module>factory</module>
+        <module>factory-method</module>
         <module>singleton</module>
         <module>prototype</module>
+        <module>builder</module>
     </modules>
 
 </project>

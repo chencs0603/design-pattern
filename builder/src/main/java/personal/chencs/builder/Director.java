@@ -1,7 +1,7 @@
 package personal.chencs.builder;
 
 /**
- *
+ * 定义构建实例的通用流程或顺序
  *
  * @author: chencs
  * @date: 2018/10/25

@@ -21,6 +21,7 @@
         <module>prototype</module>
         <module>builder</module>
         <module>abstract-factory</module>
+        <module>bridge</module>
     </modules>
 
 </project>

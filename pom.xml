@@ -23,6 +23,7 @@
         <module>abstract-factory</module>
         <module>bridge</module>
         <module>strategy</module>
+        <module>visitor</module>
     </modules>
 
 </project>

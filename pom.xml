@@ -24,6 +24,7 @@
         <module>bridge</module>
         <module>strategy</module>
         <module>visitor</module>
+        <module>responsibility-chain</module>
     </modules>
 
 </project>

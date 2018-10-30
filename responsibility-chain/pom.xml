@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>visitor</artifactId>
+    <artifactId>responsibility-chain</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <description>访问数据结构并处理数据</description>
+    <description>推卸责任</description>
 
 </project>

@@ -22,6 +22,7 @@
         <module>builder</module>
         <module>abstract-factory</module>
         <module>bridge</module>
+        <module>strategy</module>
     </modules>
 
 </project>
